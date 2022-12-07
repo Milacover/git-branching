@@ -9,9 +9,16 @@ main {
 /* add some styles for your cool navbar !*/
 nav {
     height: 15vh;
-    background-color: brown;
+    background-color: rgb(23, 23, 164);
+    
 }
 
+h1 {
+    color: darkturquoise;
+    font-style: italic;
+    font-size: xx-large;
+    padding-left: 26em;
+}
 header {
     height: 80vh;
     display: flex;
