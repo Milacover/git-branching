@@ -22,4 +22,22 @@ header {
 footer {
     height: 5vh;
     background-color: black;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+footer img{
+    width: 40px;
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+}
+
+#redes {
+    text-align: right;
+    background-color: brown;
+ 
+   
 }
